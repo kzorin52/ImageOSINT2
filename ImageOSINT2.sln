@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33513.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageOSINT2", "ImageOSINT2.csproj", "{BDE92C1D-FF40-4FE2-9F4B-0076BD07E8B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScrapySharp", "..\..\..\OneDrive\Рабочий стол\ScrapySharp-iis-fixes\ScrapySharp-iis-fixes\ScrapySharp\ScrapySharp.csproj", "{94888D3B-28AA-4DEF-A68A-7966A9C50D13}"
+EndProject
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "ScrapySharp.Core", "..\..\..\OneDrive\Рабочий стол\ScrapySharp-iis-fixes\ScrapySharp-iis-fixes\ScrapySharp.Core\ScrapySharp.Core.fsproj", "{C244436A-1FFF-4A04-A474-DB5E96AC50D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDE92C1D-FF40-4FE2-9F4B-0076BD07E8B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDE92C1D-FF40-4FE2-9F4B-0076BD07E8B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDE92C1D-FF40-4FE2-9F4B-0076BD07E8B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDE92C1D-FF40-4FE2-9F4B-0076BD07E8B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94888D3B-28AA-4DEF-A68A-7966A9C50D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94888D3B-28AA-4DEF-A68A-7966A9C50D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94888D3B-28AA-4DEF-A68A-7966A9C50D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94888D3B-28AA-4DEF-A68A-7966A9C50D13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C244436A-1FFF-4A04-A474-DB5E96AC50D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C244436A-1FFF-4A04-A474-DB5E96AC50D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C244436A-1FFF-4A04-A474-DB5E96AC50D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C244436A-1FFF-4A04-A474-DB5E96AC50D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906BD59A-676F-4CC4-BD72-DCCCB340E1DB}
+	EndGlobalSection
+EndGlobal
