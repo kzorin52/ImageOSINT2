@@ -14,7 +14,7 @@ using Telegram.Bot.Types.ReplyMarkups;
 using Color = System.Drawing.Color;
 using File = System.IO.File;
 
-const string token = "5470770147:AAF4Hw_N_Hzh9RnVhkIjKk2FWjSNC4RtBE4"; // enter your token here
+const string token = "/"; // enter your token here
 
 var admins = new List<long>
 {
